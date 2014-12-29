@@ -1,0 +1,1 @@
+Reddit Evernote Saver is a simple script that saves a reddit user's comments as individual notes in Evernote. 
