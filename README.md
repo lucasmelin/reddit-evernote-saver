@@ -7,9 +7,9 @@ The script also saves the URL, reddit comment URL, and adds the subreddit as a t
 
 Dependencies
 =======
-- [PRAW: The Python Reddit API Wrapper(https://github.com/praw-dev/praw)]
+- [PRAW: The Python Reddit API Wrapper](https://github.com/praw-dev/praw)
 
-- [Evernote SDK for Python 3(https://github.com/evernote/evernote-sdk-python3)]
+- [Evernote SDK for Python 3](https://github.com/evernote/evernote-sdk-python3)
 
 TODO
 =======
